@@ -26,3 +26,4 @@ For getting the output of the second task run ```Task_2.py``` file with command,
 **Notes:**
 1. The program is written for Windows operating system.
 2. Make sure that the .json file is in the same folder as Task_2.py
+3. Output will be displayed via python logger in command prompt
